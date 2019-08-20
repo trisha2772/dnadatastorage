@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/dnadatastorage/static/css/main.41ceb250.chunk.css",
+    "main.js": "/dnadatastorage/static/js/main.0ac4e956.chunk.js",
+    "main.js.map": "/dnadatastorage/static/js/main.0ac4e956.chunk.js.map",
+    "runtime~main.js": "/dnadatastorage/static/js/runtime~main.026e73fc.js",
+    "runtime~main.js.map": "/dnadatastorage/static/js/runtime~main.026e73fc.js.map",
+    "static/js/2.c13e0529.chunk.js": "/dnadatastorage/static/js/2.c13e0529.chunk.js",
+    "static/js/2.c13e0529.chunk.js.map": "/dnadatastorage/static/js/2.c13e0529.chunk.js.map",
+    "index.html": "/dnadatastorage/index.html",
+    "precache-manifest.7b6f4f52c49c0d52d2568ba7c0092243.js": "/dnadatastorage/precache-manifest.7b6f4f52c49c0d52d2568ba7c0092243.js",
+    "service-worker.js": "/dnadatastorage/service-worker.js",
+    "static/css/main.41ceb250.chunk.css.map": "/dnadatastorage/static/css/main.41ceb250.chunk.css.map",
+    "static/media/logo.svg": "/dnadatastorage/static/media/logo.5d5d9eef.svg"
+  }
+}
